@@ -19,6 +19,10 @@
 
 -include device/samsung/galaxys2-common/BoardCommonConfig.mk
 
+# Prebuilt recovery cpio
+PRODUCT_COPY_FILES += \
+	device/samsung/n7000/cwm/cwm.cpio:cwm.cpio
+
 TARGET_BOARD_INFO_FILE := device/samsung/n7000/board-info.txt
 
 # Bluetooth
