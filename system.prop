@@ -13,3 +13,8 @@ persist.sys.media.use-awesome=true
 persist.sys.dalvik.multithread=true
 # cache partition is to small for dalvik-cache
 dalvik.vm.dexopt-data-only=1
+
+# Keep default launcher in ram
+sys.keep_app_1=com.cyanogenmod.trebuchet
+
+
