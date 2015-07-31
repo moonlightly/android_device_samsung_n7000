@@ -10,7 +10,5 @@ persist.sys.dalvik.multithread=true
 # cache partition is to small for dalvik-cache
 dalvik.vm.dexopt-data-only=1
 
-# Keep launcher in ram
-ro.HOME_APP_ADJ=1
 
 
