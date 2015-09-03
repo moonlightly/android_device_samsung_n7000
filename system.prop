@@ -10,5 +10,6 @@ persist.sys.dalvik.multithread=true
 # cache partition is to small for dalvik-cache
 dalvik.vm.dexopt-data-only=1
 
-
-
+# OTA updates
+ro.ota.romname=NightOwl-N7000
+ro.ota.manifest=https:xxxxxx/ota.xml
