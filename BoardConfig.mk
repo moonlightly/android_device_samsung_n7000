@@ -21,8 +21,7 @@
 
 #Use old kernel toolchain. Newer GCC may be the root cause of our modem
 #interface dying sometimes.
-
-# TARGET_KERNEL_CUSTOM_TOOLCHAIN := arm-eabi-4.4.3
+TARGET_KERNEL_CUSTOM_TOOLCHAIN := arm-eabi-4.4.3
 
 TARGET_BOARD_INFO_FILE := device/samsung/n7000/board-info.txt
 
