@@ -12,4 +12,4 @@ dalvik.vm.dexopt-data-only=1
 
 # OTA updates
 ro.ota.romname=NightOwl-N7000
-ro.ota.manifest=https://drive.google.com/uc?export=download&id=0B9I1tLEDTBGPQUFJRUNEeTc3RWs
+ro.ota.manifest=https://xxxxxxxxxxxxxxx
