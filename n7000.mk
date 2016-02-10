@@ -48,8 +48,8 @@ PRODUCT_PACKAGES += \
     OTAUpdates
 
 # Snap Camera
-PRODUCT_PACKAGES += \
-    Snap
+# PRODUCT_PACKAGES += \
+#    Snap
 
 # Keylayout
 PRODUCT_COPY_FILES += \
